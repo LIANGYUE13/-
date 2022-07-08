@@ -1,4 +1,2 @@
-### Hi there 👋,my name is Liping Xiao,my English name is Heathen.
-
-- 🔭 I’m a student majoring in Information Security in GDUT.
-- 🌱 I’m currently learning Software Engineering，cyber security and Computer Operating System.
+2020.3-2020.4 守夜人一轮考核&研发一轮考核
+2020.4-2020.5 二轮考核
